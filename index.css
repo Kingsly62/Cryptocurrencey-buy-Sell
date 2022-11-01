@@ -62,3 +62,18 @@ nav .btn{
 .content h1 span{
     color: #ff960f;
 }
+
+.content p{
+    line-height: 22px;
+    font-size: 14px;
+}
+
+.content .btn{
+    display: inline-block;
+    background: #ff960f;
+    margin-top: 30px;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 30px;
+}
